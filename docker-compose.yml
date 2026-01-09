@@ -1,0 +1,46 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: hotel-postgres
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: hoteldb
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - hotel-network
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: hotel-rabbitmq
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: admin
+    ports:
+      - "5672:5672" # AMQP
+      - "15672:15672" # Management UI
+    networks:
+      - hotel-network
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:21.1.1
+    container_name: hotel-keycloak
+    environment:
+      KEYCLOAK_ADMIN: admin
+      KEYCLOAK_ADMIN_PASSWORD: admin
+    command: start-dev
+    ports:
+      - "8080:8080"
+    networks:
+      - hotel-network
+
+volumes:
+  postgres-data:
+
+networks:
+  hotel-network:
