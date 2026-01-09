@@ -1,0 +1,4 @@
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net8.0\ReservationPricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net8.0\ReservationPricing.AssemblyInfoInputs.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net8.0\ReservationPricing.AssemblyInfo.cs
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net8.0\ReservationPricing.csproj.CoreCompileInputs.cache

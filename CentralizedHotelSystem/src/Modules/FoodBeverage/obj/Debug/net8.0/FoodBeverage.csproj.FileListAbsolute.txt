@@ -1,0 +1,4 @@
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\FoodBeverage\obj\Debug\net8.0\FoodBeverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\FoodBeverage\obj\Debug\net8.0\FoodBeverage.AssemblyInfoInputs.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\FoodBeverage\obj\Debug\net8.0\FoodBeverage.AssemblyInfo.cs
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\FoodBeverage\obj\Debug\net8.0\FoodBeverage.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\BranchAnalytics\obj\Debug\net8.0\BranchAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\BranchAnalytics\obj\Debug\net8.0\BranchAnalytics.AssemblyInfoInputs.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\BranchAnalytics\obj\Debug\net8.0\BranchAnalytics.AssemblyInfo.cs
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\BranchAnalytics\obj\Debug\net8.0\BranchAnalytics.csproj.CoreCompileInputs.cache

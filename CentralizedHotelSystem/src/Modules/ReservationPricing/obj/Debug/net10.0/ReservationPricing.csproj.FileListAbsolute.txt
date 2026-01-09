@@ -1,0 +1,126 @@
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.AssemblyInfoInputs.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.AssemblyInfo.cs
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\ReservationPricing.deps.json
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\ReservationPricing.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\ReservationPricing.pdb
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildingBlocks.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildingBlocks.pdb
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\Reservat.ADC44404.Up2Date
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\refint\ReservationPricing.dll
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.pdb
+C:\Users\DELL\OneDrive\Desktop\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ref\ReservationPricing.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\ReservationPricing.deps.json
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\ReservationPricing.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\ReservationPricing.pdb
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildingBlocks.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\bin\Debug\net10.0\BuildingBlocks.pdb
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.csproj.AssemblyReference.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.AssemblyInfoInputs.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.AssemblyInfo.cs
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.csproj.CoreCompileInputs.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\Reservat.ADC44404.Up2Date
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\refint\ReservationPricing.dll
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ReservationPricing.pdb
+C:\Users\Meklit\Desktop\CentralizedHotelSystem (3)\CentralizedHotelSystem (2)\CentralizedHotelSystem\src\Modules\ReservationPricing\obj\Debug\net10.0\ref\ReservationPricing.dll

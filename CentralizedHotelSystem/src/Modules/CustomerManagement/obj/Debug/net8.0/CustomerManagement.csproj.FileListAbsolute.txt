@@ -1,0 +1,4 @@
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\CustomerManagement\obj\Debug\net8.0\CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\CustomerManagement\obj\Debug\net8.0\CustomerManagement.AssemblyInfoInputs.cache
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\CustomerManagement\obj\Debug\net8.0\CustomerManagement.AssemblyInfo.cs
+C:\Users\Meklit\Desktop\CentralizedHotelSystem\src\Modules\CustomerManagement\obj\Debug\net8.0\CustomerManagement.csproj.CoreCompileInputs.cache
